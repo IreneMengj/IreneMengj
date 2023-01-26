@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently learning **Spring,SpringMvc,SpringBoot,SpringCloud**
 
-- 👨‍💻 All of my projects are available at GitHub: https://github.com/IreneMengj
-
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **mengjiayu2021@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jiayu-meng-033439b1/](https://www.linkedin.com/in/jiayu-meng-033439b1/)
