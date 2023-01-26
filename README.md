@@ -12,8 +12,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jiayu-meng-033439b1/](https://www.linkedin.com/in/jiayu-meng-033439b1/)
 
-<h3 align="left">Connect with me: </h3> mengjiayu2021@gmail.com
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
