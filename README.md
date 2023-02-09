@@ -6,7 +6,7 @@
 <img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/ width="400">
 <br>
 <br>
-- 🔭 I’m currently working on [Gulimall](https://github.com/IreneMengj/gulimall.git)
+- 🔭 I’m currently working on [Guli Mall](https://github.com/IreneMengj/gulimall.git)
 
 - 🌱 I’m currently learning **Spring frameworks, React**
 
