@@ -6,13 +6,13 @@
 <img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/ width="400">
 &emsp;
 
-- 🔭 I’m currently working on **Online Education System**
+- 🔭 I’m currently working on <a href="[http://write.blog.csdn.net/postlist]" target="_blank">**Online Education System**</a>
 
 - 🌱 I’m currently learning **Spring frameworks, React**
 
 - 📫 How to reach me **mengjiayu2021@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jiayu-meng-033439b1/](https://www.linkedin.com/in/jiayu-meng-033439b1/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/irenemeng2023/](https://www.linkedin.com/in/jiayu-meng-033439b1/)
 
 &emsp;
 <br>
