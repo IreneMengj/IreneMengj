@@ -6,7 +6,7 @@
 <img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/ width="400">
 &emsp;
 
-- 🔭 I’m currently working on <a href="[http://write.blog.csdn.net/postlist]" target="_blank">**Online Education System**</a>
+- 🔭 I’m currently working on <a href="https://github.com/IreneMengj/xuecheng-plus-project148" target="_blank">**Online Education System**</a>
 
 - 🌱 I’m currently learning **Spring frameworks, React**
 
