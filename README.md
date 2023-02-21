@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/IreneMengj/xuecheng-plus-project148" target="_blank">**Online Education System**</a>
 
-- 🌱 I’m currently learning **Spring frameworks, React**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **mengjiayu2021@gmail.com**
 
