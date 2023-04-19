@@ -1,7 +1,7 @@
 <img  src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" align="center">
 
 <h1 align="center">Hi 👋, I'm Irene Meng</h1>
-<h3 align="center">A passionate backend developer living in Dublin</h3>
+<h3 align="center">A passionate full stack developer living in Dublin</h3>
 <br>
 <img align="right" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/ width="400">
 &emsp;
