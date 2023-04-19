@@ -1,3 +1,4 @@
+<div style="text-align:center;">
 <img  src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" align="center">
 
 <h1 align="center">Hi 👋, I'm Irene Meng</h1>
@@ -25,4 +26,5 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IreneMengj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+</div>
 
